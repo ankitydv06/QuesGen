@@ -45,15 +45,9 @@ Built with **Object-Oriented Programming (OOP)** principles, the project uses **
 ## 📂 File Structure
 QuesGen
 |-- Codes
-|     |-- main.cpp # Question Paper Generator
-|     |-- lib_management.h # Libraray Management System header
-|     |-- run.cpp # Integrated application runner
-|
-|-- Question_Bank
-      |-- O.cpp
-      |--S.cpp
-      |--obj.txt
-      |--subj.txt
+      ├── main.cpp # Question Paper Generator
+      ├── lib_management.h # Library Management System header
+      ├── run.cpp # Integrated application runner
 
 ---
 
