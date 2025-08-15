@@ -42,15 +42,6 @@ Built with **Object-Oriented Programming (OOP)** principles, the project uses **
 
 ---
 
-## 📂 File Structure
-QuesGen
-|-- Codes
-      ├── main.cpp # Question Paper Generator
-      ├── lib_management.h # Library Management System header
-      ├── run.cpp # Integrated application runner
-
----
-
 ## ⚙️ How to Run
 
 1. Install a C++ compiler supporting old Turbo C++ style code (BGI graphics).
